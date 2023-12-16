@@ -2,8 +2,8 @@ class Serviciser < Formula
     include Language::Python::Virtualenv
     desc "CLI Tool to initialise new service projects"
     homepage "https://github.com/bhq12/serviciser"
-    url "https://github.com/bhq12/serviciser/archive/refs/tags/main20231216T011018.tar.gz"
-    sha256 "dc57a73674f83b104a5a24880c8c3df6e3fc64d52828a263e01c1d40667d3844"
+    url "https://github.com/bhq12/serviciser/archive/refs/tags/main20231216T013715.tar.gz"
+    sha256 "566a805af6e3df2a714f8cc69b221bd9510f0018684c61955460c026ded97fb7"
     version "v0.0.1"
     depends_on "python@3.11"
     depends_on "pipenv"
